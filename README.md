@@ -1,5 +1,5 @@
 # stuco
-cmu student college scripts
+scripts used to keep cmu student college running (cmu.edu/stuco)
 
 # build_list.ipynb
 ## usage
