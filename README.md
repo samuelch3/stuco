@@ -1,5 +1,6 @@
 # stuco
 scripts used to keep cmu student college running (cmu.edu/stuco)
+colab file from https://colab.research.google.com/drive/1rCBpWsvQdG1PRH-qwOYrmlvEfblDbMFX
 
 # build_list.ipynb
 ## usage
