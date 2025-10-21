@@ -2,6 +2,7 @@
 scripts used to keep cmu student college running (cmu.edu/stuco)
 
 list builder: https://colab.research.google.com/drive/1rCBpWsvQdG1PRH-qwOYrmlvEfblDbMFX
+
 mergefile maker: https://colab.research.google.com/drive/1m_DAbq6v1NO_W0AuerhCh4KE9U3sg_5c
 
 # build_list.ipynb
